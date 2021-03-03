@@ -1,0 +1,10 @@
+dist/
+setup.py
+testmain.xlsx
+transfeedback/__pycache__/
+transfeedback/bin/
+transfeedback/include/
+transfeedback/lib/
+transfeedback/pyenv.cfg
+.DS_store
+TransFeedback.egg-info/
