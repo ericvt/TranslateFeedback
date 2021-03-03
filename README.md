@@ -2,7 +2,7 @@
 <a href="https://opensource.org/licenses/MIT"><img title="license" src="https://img.shields.io/badge/License-MIT-yellow.svg" ></a>
 </span>
 
-# Description on how the script works
+# Overview
 
 translateFeedback is a python script that parses strings in a column of a spreadsheet, send them to Azure Translator API and store the translation back in another column in the spreadsheet.
 
